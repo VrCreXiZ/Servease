@@ -47,16 +47,3 @@ node server.js
 or preferably
 
 `nodemon server.js`
-
-## Troubleshooting
-ikaw lagi may kasalanan
-
-hindi ung pc mo
-
-bobo amp
-<<<<<<< HEAD
-1. How to kill node server.js
-=======
-
-tanongin niyo nlng ako o si chatgpt
->>>>>>> adb4b125feec9cab4d33c6c255f5cf7fc15f30ba
